@@ -6,5 +6,5 @@ setup(
     version="0.1",
     author ="Jan Kobiolka - DSSS",
     packages=find_packages(),
-    install_requires=["numpy","turtles","random"]
+    install_requires=["numpy","turtles"]
 )
