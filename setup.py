@@ -4,7 +4,7 @@ from setuptools import find_packages
 setup(
     name = "snowflake",
     version="0.1",
-    author ="Jan - DSSS",
+    author ="Jan Kobiolka - DSSS",
     packages=find_packages(),
-    install_required=["numpy","turtles","random"]
+    install_requires=["numpy","turtles","random"]
 )
